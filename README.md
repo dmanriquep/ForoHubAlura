@@ -1,4 +1,4 @@
-# Foro Challenge Alura
+# ForoHub Challenge Alura
 
 Este proyecto es parte del Challenge ONE | Back End | ForoHub Alura y consiste en el desarrollo de una API REST utilizando Java y Spring Boot para gestionar un foro. El objetivo principal es implementar un sistema que permita crear, leer, actualizar y eliminar publicaciones y respuestas, además de gestionar usuarios y roles.
 
